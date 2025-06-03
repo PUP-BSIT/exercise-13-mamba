@@ -1,6 +1,6 @@
 def border():
     print("========================================================="
-          "===========================")
+            "===========================")
 
 def show_bernas():
     while True:
@@ -37,14 +37,14 @@ def show_bernas():
             print("\t\t\t\t\tGOALS")
             border()
             print("Priority as of now: To pass this course,"
-                " To have Latin Honors, Be Happy in Life.\n")
+                    " To have Latin Honors, Be Happy in Life.\n")
             continue
         elif choice == '3':
             border()
             print("\t\t\t\t\tHOBBIES")
             border()
             print("Doing Artworks, Playing Sports, Badminton" 
-                  ", Swimming, Taekwondo, and Cooking.\n")
+                    ", Swimming, Taekwondo, and Cooking.\n")
             continue
         elif choice == '4':
             border()
