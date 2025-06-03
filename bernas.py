@@ -15,7 +15,7 @@ def show_bernas():
         border()
         print("\t\t\t\tTEAMMATES COMMENTS")
         border()
-        print("Buenacifra's comment: ")
+        print("Buenacifra's comment: Edit indentions please.")
         print("Roldan's comment: ")
         print("Tero's comment: ")
         
