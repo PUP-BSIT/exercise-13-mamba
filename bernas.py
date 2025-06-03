@@ -27,7 +27,7 @@ def show_bernas():
             border()
             print("Name: Ernesto P. Bernas")
             print("Age: 20")
-            print("Birthday: 1/11/2005")
+            print("Birthday: 01/11/2005")
             print("Address: Bagumbayan, Taguig City")
             print("School: PUP - Taguig")
             print("Course: BSIT\n")
