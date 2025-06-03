@@ -23,14 +23,15 @@ def show_roldan():
         
         if choice == '1':
             border()
-            print("\t\t\t\t\tPERSONAL INFORMATION")
+            print("\t\t\t\tPERSONAL INFORMATION")
             border()
             print(
                 "Name: Gian Rafael B. Roldan\n"
                 "Age: 20\n"
                 "Birthday: 08/08/2004\n"
                 "Address: New Lower Bicutan, Taguig\n"
-                "School: PUP - Taguig\n")
+                "School: PUP - Taguig\n"
+                "Course: BSIT\n")
             input("Press 'Enter' to proceed.")
             continue
         elif choice == '2':

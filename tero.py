@@ -23,7 +23,7 @@ def show_tero():
 
         if choice == '1':
             border()
-            print("\t\t\t\t\tPERSONAL INFORMATION")
+            print("\t\t\t\tPERSONAL INFORMATION")
             border()
             print("Name: Altheno Mari L. Tero")
             print("Age: 20")
@@ -47,8 +47,8 @@ def show_tero():
             print("\t\t\t\t\tHOBBIES")
             border()
             print("I love playing basketball and"
-                    " going to the gym to workout.")
-            input("Press 'Enter' to proceed.\n")
+                    " going to the gym to workout.\n")
+            input("Press 'Enter' to proceed.")
             continue
         elif choice == '4':
             border()
@@ -60,7 +60,7 @@ def show_tero():
             continue
         elif choice == '5':
             border()
-            print("Nice to meet you, Bye!")
+            print("Nice to meet you, Bye!\n")
             border()
             input("Press 'Enter' to proceed.")
             break
