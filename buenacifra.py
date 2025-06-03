@@ -13,7 +13,7 @@ def show_buenacifra():
         print("5. Exit")
         border()
         print("Team Comments:")
-        print("Bernas comments: ")
+        print("Bernas comments: Goodluck on your Goals!")
         print("Roldan comments: ")
         print("Tero comments: ")
         border()
