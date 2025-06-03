@@ -63,5 +63,3 @@ def show_bernas():
             break
         print("Invalid option. Please try again.") 
         continue
-
-bernas = show_bernas()   
