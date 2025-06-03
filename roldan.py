@@ -38,7 +38,7 @@ def show_roldan():
             print("\t\t\t\t\tGOALS")
             border()
             print("My goal is winning in silence, "
-                  "living in peace.")
+                  "living in peace.\n")
             input("Press 'Enter' to proceed.")
             continue
         elif choice == '3':
@@ -47,7 +47,7 @@ def show_roldan():
             border()
             print("I enjoy playing basketball, "
                   "nature tripping, "
-                  "and exploring different cities.")
+                  "and exploring different cities.\n")
             input("Press 'Enter' to proceed.")
             continue
         elif choice == '4':
@@ -55,7 +55,7 @@ def show_roldan():
             print("\t\t\t\t\tMOTTO")
             border()
             print("My motto is: 'real eyes "
-                  "realize real lies.'")
+                  "realize real lies.'\n")
             input("Press 'Enter' to proceed.")
             continue
         elif choice == '5':
