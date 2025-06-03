@@ -32,6 +32,7 @@ def show_roldan():
                 "Address: New Lower Bicutan, Taguig\n"
                 "School: PUP - Taguig\n"
                 "Course: BSIT\n")
+                "School: PUP - Taguig\n")
             input("Press 'Enter' to proceed.")
             continue
         elif choice == '2':
