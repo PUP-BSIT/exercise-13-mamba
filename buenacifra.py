@@ -1,6 +1,6 @@
 def border():
     print("========================================================="
-          "===========")
+          "===========================")
 
 def show_buenacifra():
     while True:
@@ -17,7 +17,7 @@ def show_buenacifra():
         border()
         print("Bernas' comment: Goodluck on your Goals!")
         print("Roldan's comment: Aim high, soar higher.")
-        print("Tero's comment: Keep up the good work!")
+        print("Tero's comment: Keep up the good work!\n")
 
         choice = input("Please select an option (1-5): ")
 
@@ -63,3 +63,5 @@ def show_buenacifra():
             break
         print("\nInvalid option. Please try again.")
         continue
+
+show_buenacifra()
