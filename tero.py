@@ -14,7 +14,7 @@ def show_tero():
         border()
         print("Team Comments:")
         print("Bernas comments: Clean Coding Structure!")
-        print("Buenacifra comments: ")
+        print("Buenacifra comments: Great use of functions!")
         print("Roldan comments: ")
         border()
         choice = input("Please select an option (1-5): ")
