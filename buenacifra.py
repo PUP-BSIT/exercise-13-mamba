@@ -16,8 +16,8 @@ def show_buenacifra():
         print("\t\t\t\tTEAMMATES COMMENTS")
         border()
         print("Bernas' comment: Goodluck on your Goals!")
-        print("Roldan's comment: ")
-        print("Tero comments: ")
+        print("Roldan's comment: Aim high, soar higher.")
+        print("Tero's comment: Keep up the good work!")
 
         choice = input("Please select an option (1-5): ")
 
