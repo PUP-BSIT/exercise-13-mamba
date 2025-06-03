@@ -1,4 +1,4 @@
-
+from bernas import show_bernas
 from buenacifra import show_buenacifra
 # TODO: Import Roldan module
 # TODO: Import Tero module
