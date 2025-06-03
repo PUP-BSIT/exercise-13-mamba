@@ -5,52 +5,57 @@ def border():
 def show_tero():
     while True:
         border()
-        print("Hello! I'm Altheno Mari L. Tero.")
-        print("1. Basic Info")
+        print("\t\t\tHello! I'm Altheno Mari L. Tero.")
+        border()
+        print("1. Personal Information")
         print("2. Goals")
         print("3. Hobbies")
         print("4. Motto")
         print("5. Exit")
         border()
-        print("Team Comments:")
+        print("\t\t\t\tTEAMMATES COMMENTS")
+        border()
         print("Bernas comments: Clean Coding Structure!")
         print("Buenacifra comments: Great use of functions!")
         print("Roldan comments: ")
-        border()
+        
         choice = input("Please select an option (1-5): ")
-        border()
 
         if choice == '1':
             border()
-            print("Name: Altheno Mari L. Tero\n"
-                    "Age: 20\n"
-                    "Birthday: 11/23/2004\n"
-                    "Address: Ususan, Taguig\n"
-                    "School: PUP-Taguig\n"
-                    "Course: BSIT"
-                    )
+            print("\t\t\t\t\tPERSONAL INFORMATION")
             border()
-            input = ("Press 'Enter' to proceed.")
+            print("Name: Altheno Mari L. Tero")
+            print("Age: 20")
+            print("Birthday: 11/23/2004")
+            print("Address: Ususan, Taguig City")
+            print("School: PUP - Taguig")
+            print("Course: BSIT\n")
+            input("Press 'Enter' to proceed.")
             continue
         elif choice == '2':
             border()
+            print("\t\t\t\t\tGOALS")
+            border()
             print("My goal is to graduate from school,"
                     " achieve financial stability,"
-                    " improve my physical fitness and be happy.")
-            border()
+                    " improve my physical fitness and be happy.\n")
             input = ("Press 'Enter' to proceed.")
             continue
         elif choice == '3':
             border()
+            print("\t\t\t\t\tHOBBIES")
+            border()
             print("I love playing basketball and"
                     " going to the gym to workout.")
-            border()
-            input = ("Press 'Enter' to proceed.")
+            input = ("Press 'Enter' to proceed.\n")
             continue
         elif choice == '4':
             border()
-            print("My motto is: 'You miss 100% of the chances you don't take.'")
+            print("\t\t\t\t\tMOTTO")
             border()
+            print("My motto is: 'You miss 100% of the"
+                    "chances you don't take.\n")
             input = ("Press 'Enter' to proceed.")
             continue
         elif choice == '5':
