@@ -1,6 +1,6 @@
 def border():
     print("========================================================="
-          "===========================")
+            "===========================")
 
 def show_buenacifra():
     while True:
@@ -63,5 +63,3 @@ def show_buenacifra():
             break
         print("\nInvalid option. Please try again.")
         continue
-
-show_buenacifra()
