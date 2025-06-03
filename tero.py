@@ -40,7 +40,7 @@ def show_tero():
             print("My goal is to graduate from school,"
                     " achieve financial stability,"
                     " improve my physical fitness and be happy.\n")
-            input = ("Press 'Enter' to proceed.")
+            input("Press 'Enter' to proceed.")
             continue
         elif choice == '3':
             border()
@@ -48,7 +48,7 @@ def show_tero():
             border()
             print("I love playing basketball and"
                     " going to the gym to workout.")
-            input = ("Press 'Enter' to proceed.\n")
+            input("Press 'Enter' to proceed.\n")
             continue
         elif choice == '4':
             border()
@@ -56,13 +56,13 @@ def show_tero():
             border()
             print("My motto is: 'You miss 100% of the"
                     "chances you don't take.\n")
-            input = ("Press 'Enter' to proceed.")
+            input("Press 'Enter' to proceed.")
             continue
         elif choice == '5':
             border()
             print("Nice to meet you, Bye!")
             border()
-            input = ("Press 'Enter' to proceed.")
+            input("Press 'Enter' to proceed.")
             break
         print("\nInvalid option. Please try again.")
         continue
