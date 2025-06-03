@@ -61,3 +61,5 @@ def show_tero():
             break
         print("\nInvalid option. Please try again.")
         continue
+
+tero = show_tero()
