@@ -23,14 +23,14 @@ def show_buenacifra():
 
         if choice == '1':
             border()
-            print("\t\t\t\t\tPERSONAL INFORMATION")
+            print("\t\t\t\tPERSONAL INFORMATION")
             border()
             print("Name: Abrianne Buenacifra\n"
                     "Age: 20\n"
                     "Birthday: 04/27/2005\n"
                     "Address: New Lower Bicutan, Taguig\n"
                     "School: PUP - Taguig\n"
-                    "Course: BSIT")
+                    "Course: BSIT\n")
             input("Press 'Enter' to proceed.")
             continue
         elif choice == '2':
@@ -38,7 +38,7 @@ def show_buenacifra():
             print("\t\t\t\t\tGOALS")
             border()
             print("My goal is to graduate with honors and"
-                    " to have a successful career.")
+                    " to have a successful career.\n")
             input("Press 'Enter' to proceed.")
             continue
         elif choice == '3':
@@ -46,14 +46,14 @@ def show_buenacifra():
             print("\t\t\t\t\tHOBBIES")
             border()
             print("I enjoy reading manhwas and"
-                    " watching documentaries.")
+                    " watching documentaries.\n")
             input("Press 'Enter' to proceed.")
             continue
         elif choice == '4':
             border()
             print("\t\t\t\t\tMOTTO")
             border()
-            print("My motto is: 'Do it scared.'")
+            print("My motto is: 'Do it scared.'\n")
             input("Press 'Enter' to proceed.")
             continue
         elif choice == '5':

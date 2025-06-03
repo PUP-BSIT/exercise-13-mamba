@@ -1,16 +1,18 @@
 from bernas import show_bernas
 from buenacifra import show_buenacifra
 from roldan import show_roldan
-from tero import show_tero
+from tero import show_tero, border 
 
 def main_menu():
     while True:
-        print("\nWelcome to the Main Menu!")
+        border()
+        print("Welcome to the Main Menu!")
         print("1. Ernesto Bernas III")
         print("2. Abrianne Buenacifra")
         print("3. Gian Rafael Roldan")
         print("4. Altheno Mari Tero")
         print("5. Exit")
+        border()
 
         choice = input("\nPlease select an option (1-5): ")
 
