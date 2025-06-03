@@ -33,7 +33,7 @@ def show_roldan():
             continue
         elif choice == '2':
             border()
-            print("My goal is Winning in silence, "
+            print("My goal is winning in silence, "
                   "living in peace.")
             border()
             continue
