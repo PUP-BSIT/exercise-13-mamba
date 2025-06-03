@@ -1,6 +1,7 @@
 from bernas import show_bernas
 from buenacifra import show_buenacifra
 from roldan import show_roldan
+from tero import show_tero
 
 def main_menu():
     while True:
@@ -23,7 +24,8 @@ def main_menu():
             show_roldan()
             continue
         elif choice == '4':
-           
+            show_tero()
+            continue
         elif choice == '5':
             print("Exiting...")
             break
