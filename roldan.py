@@ -31,7 +31,7 @@ def show_roldan():
                 "Birthday: 08/08/2004\n"
                 "Address: New Lower Bicutan, Taguig\n"
                 "School: PUP - Taguig\n"
-                "Course: BSIT\n")
+                "Course: BSIT\n"
                 "School: PUP - Taguig\n")
             input("Press 'Enter' to proceed.")
             continue
