@@ -1,7 +1,5 @@
 from bernas import show_bernas
 from buenacifra import show_buenacifra
-# TODO: Import Roldan module
-# TODO: Import Tero module
 
 def main_menu():
     while True:
@@ -15,7 +13,8 @@ def main_menu():
         choice = input("Please select an option (1-5): ")
 
         if choice == '1':
-            
+            show_bernas()
+            continue
         elif choice == '2':
             show_buenacifra()
             continue
