@@ -12,7 +12,7 @@ def main_menu():
         print("4. Altheno Mari Tero")
         print("5. Exit")
 
-        choice = input("Please select an option (1-5): ")
+        choice = input("\nPlease select an option (1-5): ")
 
         if choice == '1':
             show_bernas()
