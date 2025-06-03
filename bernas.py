@@ -17,7 +17,7 @@ def show_bernas():
         border()
         print("Buenacifra's comment: Good job! Keep it up!")
         print("Roldan's comment: Keep dreaming, keep doing.")
-        print("Tero's comment: Good luck and stay consistent! ")
+        print("Tero's comment: Good luck and stay consistent!\n")
         
         choice = input("\nPlease select an option(1-5): ")
         
