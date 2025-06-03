@@ -13,7 +13,7 @@ def show_tero():
         print("5. Exit")
         border()
         print("Team Comments:")
-        print("Bernas comments: ")
+        print("Bernas comments: Clean Coding Structure!")
         print("Buenacifra comments: ")
         print("Roldan comments: ")
         border()
