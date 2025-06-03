@@ -14,7 +14,7 @@ def show_roldan():
         print("Team Comments:")
         print("Bernas comment: Good, I like your code!")
         print("Buenacifra comment: Have fun coding!")
-        print("Tero comment: ")
+        print("Tero comment: Nice hobby!")
         border()
         choice = input("Please select an option (1-5): ")
         border()
