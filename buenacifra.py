@@ -15,7 +15,7 @@ def show_buenacifra():
         print("Team Comments:")
         print("Bernas comments: Goodluck on your Goals!")
         print("Roldan comments: Aim high, soar higher.")
-        print("Tero comments: ")
+        print("Tero comments: Keep up the good work!")
         border()
         choice = input("Please select an option (1-5): ")
         border()
