@@ -53,7 +53,7 @@ def show_bernas():
             border()
             print("\t\t\t\t\tMOTTO")
             border()
-            print("Keep on Moving Forward!\n")
+            print("Keep On Moving Forward!\n")
             input("Press 'Enter' to proceed.")
             continue
         elif choice == '5': 

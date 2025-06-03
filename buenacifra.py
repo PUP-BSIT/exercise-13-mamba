@@ -29,7 +29,7 @@ def show_buenacifra():
                     "Age: 20\n"
                     "Birthday: 04/27/2005\n"
                     "Address: New Lower Bicutan, Taguig\n"
-                    "School: PUP-Taguig\n"
+                    "School: PUP - Taguig\n"
                     "Course: BSIT")
             input("Press 'Enter' to proceed.")
             continue

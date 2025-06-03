@@ -30,7 +30,7 @@ def show_roldan():
                 "Age: 20\n"
                 "Birthday: 08/08/2004\n"
                 "Address: New Lower Bicutan, Taguig\n"
-                "School: PUP-Taguig\n")
+                "School: PUP - Taguig\n")
             input("Press 'Enter' to proceed.")
             continue
         elif choice == '2':
