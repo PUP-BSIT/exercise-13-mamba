@@ -12,7 +12,7 @@ def show_roldan():
         print("5. Exit")
         border()
         print("Team Comments:")
-        print("Bernas comment: ")
+        print("Bernas comment: Good, I like your code!")
         print("Buenacifra comment: ")
         print("Tero comment: ")
         border()
