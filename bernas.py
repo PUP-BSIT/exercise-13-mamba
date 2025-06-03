@@ -31,6 +31,7 @@ def show_bernas():
             print("Address: Bagumbayan, Taguig City")
             print("School: PUP - Taguig")
             print("Course: BSIT\n")
+            input("Press 'Enter' to proceed.")
             continue
         if choice == '2':
             border()
@@ -38,6 +39,7 @@ def show_bernas():
             border()
             print("Priority as of now: To pass this course,"
                     " To have Latin Honors, Be Happy in Life.\n")
+            input("Press 'Enter' to proceed.")
             continue
         elif choice == '3':
             border()
@@ -45,12 +47,14 @@ def show_bernas():
             border()
             print("Doing Artworks, Playing Sports, Badminton" 
                     ", Swimming, Taekwondo, and Cooking.\n")
+            input("Press 'Enter' to proceed.")
             continue
         elif choice == '4':
             border()
             print("\t\t\t\t\tMOTTO")
             border()
             print("Keep on Moving Forward!\n")
+            input("Press 'Enter' to proceed.")
             continue
         elif choice == '5': 
             border()
